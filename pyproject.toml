@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tea-hello-world"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Anton Udovychenko", email="uadjob@gmail.com" },
 ]
@@ -16,3 +16,7 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+
+[project.urls]
+Homepage = "https://github.com/UDAnton/tea-testnet"
+Issues = "https://github.com/UDAnton/tea-testnet/issues"
